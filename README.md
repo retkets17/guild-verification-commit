@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-05T19:29:14.302Z
-Commit: Add export functionality for reports
+Timestamp: 2025-11-05T19:29:46.021Z
+Commit: Fix broken links in documentation

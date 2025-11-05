@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-05T13:55:20.320Z
-Commit: Patch API endpoint error handling
+Timestamp: 2025-11-05T13:55:33.643Z
+Commit: Add multi-language support
